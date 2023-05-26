@@ -86,3 +86,31 @@ Changes to be committed:
         modified:   .vs/slnx.sqlite
         deleted:    README.md
         modified:   answers.md
+
+Answer 10:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Last commands done (2 commands done):
+   pick e7f695a Initial commit
+   pick e7f695a Initial commit
+Next commands to do (2 remaining commands):
+   pick e7f695a Initial commit
+   pick a851810 Initial commit
+  (use "git rebase --edit-todo" to view and edit)
+You are currently editing a commit while rebasing branch 'main' on '009c55e'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 11:
+Everything up-to-date
+
+Answer 12:
+Already up to date.
