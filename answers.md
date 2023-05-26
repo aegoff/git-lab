@@ -114,3 +114,6 @@ Everything up-to-date
 
 Answer 12:
 Already up to date.
+       
+Answer 13:
+.  ..  .git  .gitignore  README.md
