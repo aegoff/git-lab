@@ -58,3 +58,31 @@ Author: root <root@LPTP-XKC5274.localdomain>
 Date:   Fri May 26 11:30:47 2023 -0400
 
     Initial commit
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Last commands done (2 commands done):
+   pick e7f695a Initial commit
+   pick e7f695a Initial commit
+Next commands to do (2 remaining commands):
+   pick e7f695a Initial commit
+   pick a851810 Initial commit
+  (use "git rebase --edit-todo" to view and edit)
+You are currently editing a commit while rebasing branch 'main' on '009c55e'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .vs/VSWorkspaceState.json
+        new file:   .vs/git-lab/FileContentIndex/2d3c2426-e46f-4452-b379-ec89a7d761ab.vsidx
+        new file:   .vs/git-lab/FileContentIndex/3d4bfe6d-dc49-4418-8867-43caf49b31d4.vsidx
+        new file:   .vs/git-lab/FileContentIndex/418d150a-e475-40b0-bf51-996361fefed1.vsidx
+        deleted:    .vs/git-lab/FileContentIndex/bac36317-00bf-40f6-9081-7fa2098b2630.vsidx
+        deleted:    .vs/git-lab/FileContentIndex/fa58af00-fb48-48a9-8fc0-8a876ef2a823.vsidx
+        new file:   .vs/git-lab/v17/.wsuo
+        modified:   .vs/slnx.sqlite
+        deleted:    README.md
+        modified:   answers.md
